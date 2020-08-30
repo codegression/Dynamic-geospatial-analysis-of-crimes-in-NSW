@@ -2696,7 +2696,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/1.gif)
+    ![chart](src/1.gif)
 
     
     
@@ -2709,7 +2709,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/2.gif)
+    ![chart](src/2.gif)
 
     
     
@@ -2727,7 +2727,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/3.gif)
+    ![chart](src/3.gif)
 
     
     
@@ -2753,7 +2753,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/4.gif)
+    ![chart](src/4.gif)
 
     
     
@@ -2766,7 +2766,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/5.gif)
+    ![chart](src/5.gif)
 
     
     
@@ -2784,7 +2784,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/6.gif)
+    ![chart](src/6.gif)
 
     
     
@@ -2810,7 +2810,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/7.gif)
+    ![chart](src/7.gif)
 
     
     
@@ -2823,7 +2823,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/8.gif)
+    ![chart](src/8.gif)
 
     
     
@@ -2841,7 +2841,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/9.gif)
+    ![chart](src/9.gif)
 
     
     
@@ -2867,7 +2867,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/10.gif)
+    ![chart](src/10.gif)
 
     
     
@@ -2880,7 +2880,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/11.gif)
+    ![chart](src/11.gif)
 
     
     
@@ -2898,7 +2898,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/12.gif)
+    ![chart](src/12.gif)
 
     
     
@@ -2924,7 +2924,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/13.gif)
+    ![chart](src/13.gif)
 
     
     
@@ -2937,7 +2937,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/14.gif)
+    ![chart](src/14.gif)
 
     
     
@@ -2955,7 +2955,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/15.gif)
+    ![chart](src/15.gif)
 
     
     
@@ -2981,7 +2981,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/16.gif)
+    ![chart](src/16.gif)
 
     
     
@@ -2994,7 +2994,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/17.gif)
+    ![chart](src/17.gif)
 
     
     
@@ -3012,7 +3012,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/18.gif)
+    ![chart](src/18.gif)
 
     
     
@@ -3038,7 +3038,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/19.gif)
+    ![chart](src/19.gif)
 
     
     
@@ -3051,7 +3051,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/20.gif)
+    ![chart](src/20.gif)
 
     
     
@@ -3069,7 +3069,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/21.gif)
+    ![chart](src/21.gif)
 
     
     
@@ -3095,7 +3095,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/22.gif)
+    ![chart](src/22.gif)
 
     
     
@@ -3108,7 +3108,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/23.gif)
+    ![chart](src/23.gif)
 
     
     
@@ -3126,7 +3126,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/24.gif)
+    ![chart](src/24.gif)
 
     
     
@@ -3152,7 +3152,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/25.gif)
+    ![chart](src/25.gif)
 
     
     
@@ -3165,7 +3165,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/26.gif)
+    ![chart](src/26.gif)
 
     
     
@@ -3183,7 +3183,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/27.gif)
+    ![chart](src/27.gif)
 
     
     
@@ -3209,7 +3209,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/28.gif)
+    ![chart](src/28.gif)
 
     
     
@@ -3222,7 +3222,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/29.gif)
+    ![chart](src/29.gif)
 
     
     
@@ -3240,7 +3240,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/30.gif)
+    ![chart](src/30.gif)
 
     
     
@@ -3266,7 +3266,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/31.gif)
+    ![chart](src/31.gif)
 
     
     
@@ -3279,7 +3279,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/32.gif)
+    ![chart](src/32.gif)
 
     
     
@@ -3297,7 +3297,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/33.gif)
+    ![chart](src/33.gif)
 
     
     
@@ -3323,7 +3323,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/34.gif)
+    ![chart](src/34.gif)
 
     
     
@@ -3336,7 +3336,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/35.gif)
+    ![chart](src/35.gif)
 
     
     
@@ -3354,7 +3354,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/36.gif)
+    ![chart](src/36.gif)
 
     
     
@@ -3380,7 +3380,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/37.gif)
+    ![chart](src/37.gif)
 
     
     
@@ -3393,7 +3393,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/38.gif)
+    ![chart](src/38.gif)
 
     
     
@@ -3411,7 +3411,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/39.gif)
+    ![chart](src/39.gif)
 
     
     
@@ -3437,7 +3437,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/40.gif)
+    ![chart](src/40.gif)
 
     
     
@@ -3450,7 +3450,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/41.gif)
+    ![chart](src/41.gif)
 
     
     
@@ -3468,7 +3468,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/42.gif)
+    ![chart](src/42.gif)
 
     
     
@@ -3494,7 +3494,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/43.gif)
+    ![chart](src/43.gif)
 
     
     
@@ -3507,7 +3507,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/44.gif)
+    ![chart](src/44.gif)
 
     
     
@@ -3525,7 +3525,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/45.gif)
+    ![chart](src/45.gif)
 
     
     
@@ -3551,7 +3551,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/46.gif)
+    ![chart](src/46.gif)
 
     
     
@@ -3564,7 +3564,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/47.gif)
+    ![chart](src/47.gif)
 
     
     
@@ -3582,7 +3582,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/48.gif)
+    ![chart](src/48.gif)
 
     
     
@@ -3608,7 +3608,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/49.gif)
+    ![chart](src/49.gif)
 
     
     
@@ -3621,7 +3621,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/50.gif)
+    ![chart](src/50.gif)
 
     
     
@@ -3639,7 +3639,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/51.gif)
+    ![chart](src/51.gif)
 
     
     
@@ -3665,7 +3665,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/52.gif)
+    ![chart](src/52.gif)
 
     
     
@@ -3678,7 +3678,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/53.gif)
+    ![chart](src/53.gif)
 
     
     
@@ -3696,7 +3696,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/54.gif)
+    ![chart](src/54.gif)
 
     
     
@@ -3722,7 +3722,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/55.gif)
+    ![chart](src/55.gif)
 
     
     
@@ -3735,7 +3735,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/56.gif)
+    ![chart](src/56.gif)
 
     
     
@@ -3753,7 +3753,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/57.gif)
+    ![chart](src/57.gif)
 
     
     
@@ -3779,7 +3779,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/58.gif)
+    ![chart](src/58.gif)
 
     
     
@@ -3792,7 +3792,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/59.gif)
+    ![chart](src/59.gif)
 
     
     
@@ -3810,7 +3810,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/60.gif)
+    ![chart](src/60.gif)
 
     
     
@@ -3836,7 +3836,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/61.gif)
+    ![chart](src/61.gif)
 
     
     
@@ -3849,7 +3849,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/62.gif)
+    ![chart](src/62.gif)
 
     
     
@@ -3867,7 +3867,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/63.gif)
+    ![chart](src/63.gif)
 
     
     
@@ -3893,7 +3893,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/64.gif)
+    ![chart](src/64.gif)
 
     
     
@@ -3906,7 +3906,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/65.gif)
+    ![chart](src/65.gif)
 
     
     
@@ -3924,7 +3924,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/66.gif)
+    ![chart](src/66.gif)
 
     
     
@@ -3950,7 +3950,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/67.gif)
+    ![chart](src/67.gif)
 
     
     
@@ -3963,7 +3963,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/68.gif)
+    ![chart](src/68.gif)
 
     
     
@@ -3981,7 +3981,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/69.gif)
+    ![chart](src/69.gif)
 
     
     
@@ -4007,7 +4007,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/70.gif)
+    ![chart](src/70.gif)
 
     
     
@@ -4020,7 +4020,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/71.gif)
+    ![chart](src/71.gif)
 
     
     
@@ -4038,7 +4038,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/72.gif)
+    ![chart](src/72.gif)
 
     
     
@@ -4064,7 +4064,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/73.gif)
+    ![chart](src/73.gif)
 
     
     
@@ -4077,7 +4077,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/74.gif)
+    ![chart](src/74.gif)
 
     
     
@@ -4095,7 +4095,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/75.gif)
+    ![chart](src/75.gif)
 
     
     
@@ -4121,7 +4121,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/76.gif)
+    ![chart](src/76.gif)
 
     
     
@@ -4134,7 +4134,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/77.gif)
+    ![chart](src/77.gif)
 
     
     
@@ -4152,7 +4152,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/78.gif)
+    ![chart](src/78.gif)
 
     
     
@@ -4178,7 +4178,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/79.gif)
+    ![chart](src/79.gif)
 
     
     
@@ -4191,7 +4191,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/80.gif)
+    ![chart](src/80.gif)
 
     
     
@@ -4209,7 +4209,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/81.gif)
+    ![chart](src/81.gif)
 
     
     
@@ -4235,7 +4235,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/82.gif)
+    ![chart](src/82.gif)
 
     
     
@@ -4248,7 +4248,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/83.gif)
+    ![chart](src/83.gif)
 
     
     
@@ -4266,7 +4266,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/84.gif)
+    ![chart](src/84.gif)
 
     
     
@@ -4292,7 +4292,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/85.gif)
+    ![chart](src/85.gif)
 
     
     
@@ -4305,7 +4305,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/86.gif)
+    ![chart](src/86.gif)
 
     
     
@@ -4323,7 +4323,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/87.gif)
+    ![chart](src/87.gif)
 
     
     
@@ -4349,7 +4349,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/88.gif)
+    ![chart](src/88.gif)
 
     
     
@@ -4362,7 +4362,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/89.gif)
+    ![chart](src/89.gif)
 
     
     
@@ -4380,7 +4380,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/90.gif)
+    ![chart](src/90.gif)
 
     
     
@@ -4406,7 +4406,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/91.gif)
+    ![chart](src/91.gif)
 
     
     
@@ -4419,7 +4419,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/92.gif)
+    ![chart](src/92.gif)
 
     
     
@@ -4437,7 +4437,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/93.gif)
+    ![chart](src/93.gif)
 
     
     
@@ -4463,7 +4463,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/94.gif)
+    ![chart](src/94.gif)
 
     
     
@@ -4476,7 +4476,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/95.gif)
+    ![chart](src/95.gif)
 
     
     
@@ -4494,7 +4494,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/96.gif)
+    ![chart](src/96.gif)
 
     
     
@@ -4520,7 +4520,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/97.gif)
+    ![chart](src/97.gif)
 
     
     
@@ -4533,7 +4533,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/98.gif)
+    ![chart](src/98.gif)
 
     
     
@@ -4551,7 +4551,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/99.gif)
+    ![chart](src/99.gif)
 
     
     
@@ -4577,7 +4577,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/100.gif)
+    ![chart](src/100.gif)
 
     
     
@@ -4590,7 +4590,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/101.gif)
+    ![chart](src/101.gif)
 
     
     
@@ -4608,7 +4608,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/102.gif)
+    ![chart](src/102.gif)
 
     
     
@@ -4634,7 +4634,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/103.gif)
+    ![chart](src/103.gif)
 
     
     
@@ -4647,7 +4647,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/104.gif)
+    ![chart](src/104.gif)
 
     
     
@@ -4665,7 +4665,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/105.gif)
+    ![chart](src/105.gif)
 
     
     
@@ -4691,7 +4691,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/106.gif)
+    ![chart](src/106.gif)
 
     
     
@@ -4704,7 +4704,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/107.gif)
+    ![chart](src/107.gif)
 
     
     
@@ -4722,7 +4722,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/108.gif)
+    ![chart](src/108.gif)
 
     
     
@@ -4748,7 +4748,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/109.gif)
+    ![chart](src/109.gif)
 
     
     
@@ -4761,7 +4761,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/110.gif)
+    ![chart](src/110.gif)
 
     
     
@@ -4779,7 +4779,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/111.gif)
+    ![chart](src/111.gif)
 
     
     
@@ -4805,7 +4805,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/112.gif)
+    ![chart](src/112.gif)
 
     
     
@@ -4818,7 +4818,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/113.gif)
+    ![chart](src/113.gif)
 
     
     
@@ -4836,7 +4836,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/114.gif)
+    ![chart](src/114.gif)
 
     
     
@@ -4862,7 +4862,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/115.gif)
+    ![chart](src/115.gif)
 
     
     
@@ -4875,7 +4875,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/116.gif)
+    ![chart](src/116.gif)
 
     
     
@@ -4893,7 +4893,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/117.gif)
+    ![chart](src/117.gif)
 
     
     
@@ -4919,7 +4919,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/118.gif)
+    ![chart](src/118.gif)
 
     
     
@@ -4932,7 +4932,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/119.gif)
+    ![chart](src/119.gif)
 
     
     
@@ -4950,7 +4950,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/120.gif)
+    ![chart](src/120.gif)
 
     
     
@@ -4976,7 +4976,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/121.gif)
+    ![chart](src/121.gif)
 
     
     
@@ -4989,7 +4989,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/122.gif)
+    ![chart](src/122.gif)
 
     
     
@@ -5007,7 +5007,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/123.gif)
+    ![chart](src/123.gif)
 
     
     
@@ -5033,7 +5033,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/124.gif)
+    ![chart](src/124.gif)
 
     
     
@@ -5046,7 +5046,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/125.gif)
+    ![chart](src/125.gif)
 
     
     
@@ -5064,7 +5064,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/126.gif)
+    ![chart](src/126.gif)
 
     
     
@@ -5090,7 +5090,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/127.gif)
+    ![chart](src/127.gif)
 
     
     
@@ -5103,7 +5103,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/128.gif)
+    ![chart](src/128.gif)
 
     
     
@@ -5121,7 +5121,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/129.gif)
+    ![chart](src/129.gif)
 
     
     
@@ -5147,7 +5147,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/130.gif)
+    ![chart](src/130.gif)
 
     
     
@@ -5160,7 +5160,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/131.gif)
+    ![chart](src/131.gif)
 
     
     
@@ -5178,7 +5178,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/132.gif)
+    ![chart](src/132.gif)
 
     
     
@@ -5204,7 +5204,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/133.gif)
+    ![chart](src/133.gif)
 
     
     
@@ -5217,7 +5217,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/134.gif)
+    ![chart](src/134.gif)
 
     
     
@@ -5235,7 +5235,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/135.gif)
+    ![chart](src/135.gif)
 
     
     
@@ -5261,7 +5261,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/136.gif)
+    ![chart](src/136.gif)
 
     
     
@@ -5274,7 +5274,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/137.gif)
+    ![chart](src/137.gif)
 
     
     
@@ -5292,7 +5292,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/138.gif)
+    ![chart](src/138.gif)
 
     
     
@@ -5318,7 +5318,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/139.gif)
+    ![chart](src/139.gif)
 
     
     
@@ -5331,7 +5331,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/140.gif)
+    ![chart](src/140.gif)
 
     
     
@@ -5349,7 +5349,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/141.gif)
+    ![chart](src/141.gif)
 
     
     
@@ -5375,7 +5375,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/142.gif)
+    ![chart](src/142.gif)
 
     
     
@@ -5388,7 +5388,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/143.gif)
+    ![chart](src/143.gif)
 
     
     
@@ -5406,7 +5406,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/144.gif)
+    ![chart](src/144.gif)
 
     
     
@@ -5432,7 +5432,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/145.gif)
+    ![chart](src/145.gif)
 
     
     
@@ -5445,7 +5445,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/146.gif)
+    ![chart](src/146.gif)
 
     
     
@@ -5463,7 +5463,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/147.gif)
+    ![chart](src/147.gif)
 
     
     
@@ -5489,7 +5489,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/148.gif)
+    ![chart](src/148.gif)
 
     
     
@@ -5502,7 +5502,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/149.gif)
+    ![chart](src/149.gif)
 
     
     
@@ -5520,7 +5520,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/150.gif)
+    ![chart](src/150.gif)
 
     
     
@@ -5546,7 +5546,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/151.gif)
+    ![chart](src/151.gif)
 
     
     
@@ -5559,7 +5559,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/152.gif)
+    ![chart](src/152.gif)
 
     
     
@@ -5577,7 +5577,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/153.gif)
+    ![chart](src/153.gif)
 
     
     
@@ -5603,7 +5603,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/154.gif)
+    ![chart](src/154.gif)
 
     
     
@@ -5616,7 +5616,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/155.gif)
+    ![chart](src/155.gif)
 
     
     
@@ -5634,7 +5634,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/156.gif)
+    ![chart](src/156.gif)
 
     
     
@@ -5660,7 +5660,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/157.gif)
+    ![chart](src/157.gif)
 
     
     
@@ -5673,7 +5673,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/158.gif)
+    ![chart](src/158.gif)
 
     
     
@@ -5691,7 +5691,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/159.gif)
+    ![chart](src/159.gif)
 
     
     
@@ -5717,7 +5717,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/160.gif)
+    ![chart](src/160.gif)
 
     
     
@@ -5730,7 +5730,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/161.gif)
+    ![chart](src/161.gif)
 
     
     
@@ -5748,7 +5748,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/162.gif)
+    ![chart](src/162.gif)
 
     
     
@@ -5774,7 +5774,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/163.gif)
+    ![chart](src/163.gif)
 
     
     
@@ -5787,7 +5787,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/164.gif)
+    ![chart](src/164.gif)
 
     
     
@@ -5805,7 +5805,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/165.gif)
+    ![chart](src/165.gif)
 
     
     
@@ -5831,7 +5831,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/166.gif)
+    ![chart](src/166.gif)
 
     
     
@@ -5844,7 +5844,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/167.gif)
+    ![chart](src/167.gif)
 
     
     
@@ -5862,7 +5862,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/168.gif)
+    ![chart](src/168.gif)
 
     
     
@@ -5888,7 +5888,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/169.gif)
+    ![chart](src/169.gif)
 
     
     
@@ -5901,7 +5901,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/170.gif)
+    ![chart](src/170.gif)
 
     
     
@@ -5919,7 +5919,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/171.gif)
+    ![chart](src/171.gif)
 
     
     
@@ -5945,7 +5945,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/172.gif)
+    ![chart](src/172.gif)
 
     
     
@@ -5958,7 +5958,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/173.gif)
+    ![chart](src/173.gif)
 
     
     
@@ -5976,7 +5976,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/174.gif)
+    ![chart](src/174.gif)
 
     
     
@@ -6002,7 +6002,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/175.gif)
+    ![chart](src/175.gif)
 
     
     
@@ -6015,7 +6015,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/176.gif)
+    ![chart](src/176.gif)
 
     
     
@@ -6033,7 +6033,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/177.gif)
+    ![chart](src/177.gif)
 
     
     
@@ -6059,7 +6059,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/178.gif)
+    ![chart](src/178.gif)
 
     
     
@@ -6072,7 +6072,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/179.gif)
+    ![chart](src/179.gif)
 
     
     
@@ -6090,7 +6090,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/180.gif)
+    ![chart](src/180.gif)
 
     
     
@@ -6116,7 +6116,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/181.gif)
+    ![chart](src/181.gif)
 
     
     
@@ -6129,7 +6129,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/182.gif)
+    ![chart](src/182.gif)
 
     
     
@@ -6147,7 +6147,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/183.gif)
+    ![chart](src/183.gif)
 
     
     
@@ -6173,7 +6173,7 @@ for offence in data.Offence.unique():
 
 
 
-    ![gif](src/184.gif)
+    ![chart](src/184.gif)
 
     
     
@@ -6186,7 +6186,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/185.gif)
+    ![chart](src/185.gif)
 
     
     
@@ -6204,7 +6204,7 @@ for offence in data.Offence.unique():
     
 
 
-    ![gif](src/186.gif)
+    ![chart](src/186.gif)
 
     
     
@@ -6234,7 +6234,7 @@ drawAnimatedMap('Total', 'OrRd', 'black', 'black')
 
 
 
-    ![gif](src/187.gif)
+    ![chart](src/187.gif)
 
     
     
@@ -6247,7 +6247,7 @@ drawAnimatedMap('Total', 'OrRd', 'black', 'black')
     
 
 
-    ![gif](src/188.gif)
+    ![chart](src/188.gif)
 
     
     
@@ -6265,7 +6265,7 @@ drawAnimatedMap('Total', 'OrRd', 'black', 'black')
     
 
 
-    ![gif](src/189.gif)
+    ![chart](src/189.gif)
 
     
     
